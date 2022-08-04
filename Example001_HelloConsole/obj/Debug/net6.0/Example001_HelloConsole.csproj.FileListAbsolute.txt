@@ -1,0 +1,15 @@
+D:\ГИК БРЕЙНС ОБУЧЕНИЕ\05 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01 УРОК-1 ЛЕКЦИЯ 2022 08 02\Examples-040822\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+D:\ГИК БРЕЙНС ОБУЧЕНИЕ\05 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01 УРОК-1 ЛЕКЦИЯ 2022 08 02\Examples-040822\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+D:\ГИК БРЕЙНС ОБУЧЕНИЕ\05 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01 УРОК-1 ЛЕКЦИЯ 2022 08 02\Examples-040822\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+D:\ГИК БРЕЙНС ОБУЧЕНИЕ\05 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01 УРОК-1 ЛЕКЦИЯ 2022 08 02\Examples-040822\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+D:\ГИК БРЕЙНС ОБУЧЕНИЕ\05 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01 УРОК-1 ЛЕКЦИЯ 2022 08 02\Examples-040822\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+D:\ГИК БРЕЙНС ОБУЧЕНИЕ\05 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01 УРОК-1 ЛЕКЦИЯ 2022 08 02\Examples-040822\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+D:\ГИК БРЕЙНС ОБУЧЕНИЕ\05 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01 УРОК-1 ЛЕКЦИЯ 2022 08 02\Examples-040822\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИК БРЕЙНС ОБУЧЕНИЕ\05 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01 УРОК-1 ЛЕКЦИЯ 2022 08 02\Examples-040822\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+D:\ГИК БРЕЙНС ОБУЧЕНИЕ\05 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01 УРОК-1 ЛЕКЦИЯ 2022 08 02\Examples-040822\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+D:\ГИК БРЕЙНС ОБУЧЕНИЕ\05 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01 УРОК-1 ЛЕКЦИЯ 2022 08 02\Examples-040822\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\ГИК БРЕЙНС ОБУЧЕНИЕ\05 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01 УРОК-1 ЛЕКЦИЯ 2022 08 02\Examples-040822\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+D:\ГИК БРЕЙНС ОБУЧЕНИЕ\05 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01 УРОК-1 ЛЕКЦИЯ 2022 08 02\Examples-040822\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+D:\ГИК БРЕЙНС ОБУЧЕНИЕ\05 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01 УРОК-1 ЛЕКЦИЯ 2022 08 02\Examples-040822\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+D:\ГИК БРЕЙНС ОБУЧЕНИЕ\05 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01 УРОК-1 ЛЕКЦИЯ 2022 08 02\Examples-040822\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+D:\ГИК БРЕЙНС ОБУЧЕНИЕ\05 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01 УРОК-1 ЛЕКЦИЯ 2022 08 02\Examples-040822\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
